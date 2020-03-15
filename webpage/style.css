@@ -24,3 +24,15 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+.newOne p{
+    text-align: center;
+    color: red;
+    padding:5px;
+
+}
+.oldOne p{
+    text-align: center;
+    color: red;
+    padding:5px;
+
+}
